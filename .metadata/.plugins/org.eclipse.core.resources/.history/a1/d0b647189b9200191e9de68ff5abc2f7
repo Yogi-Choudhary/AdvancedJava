@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Simpal Web Application</title>
+</head>
+<body>
+  <form method="post" action="XmlServletpath">
+    <input name="userName"/>
+    <input type="submit"/>
+  </form>
+</body>
+</html>
