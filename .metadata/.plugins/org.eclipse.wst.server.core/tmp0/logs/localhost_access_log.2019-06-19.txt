@@ -34,3 +34,8 @@
 0:0:0:0:0:0:0:1 - - [19/Jun/2019:19:34:44 +0530] "GET /SimpalServletPjt/index.html HTTP/1.1" 200 285
 0:0:0:0:0:0:0:1 - - [19/Jun/2019:19:34:46 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
 0:0:0:0:0:0:0:1 - - [19/Jun/2019:19:34:55 +0530] "POST /SimpalServletPjt/XmlServletpath HTTP/1.1" 404 1109
+127.0.0.1 - - [19/Jun/2019:21:11:35 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:21:11:40 +0530] "GET /SimpalServletPjt/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:21:11:49 +0530] "POST /SimpalServletPjt/XmlServletpath HTTP/1.1" 404 1109
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:21:12:03 +0530] "POST /SimpalServletPjt/XmlServletpath HTTP/1.1" 404 1109
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:21:12:23 +0530] "POST /SimpalServletPjt/XmlServletpath HTTP/1.1" 404 1109
